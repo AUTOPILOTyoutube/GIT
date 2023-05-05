@@ -2,7 +2,8 @@
 
 ![Иллюстрация к проекту](https://github.com/autopilotyoutube/GIT/raw/main/files/pictures/Git_logo.png)
 
-[ОФИЦИАЛЬНЫЙ САЙТ GIT](https://git-scm.com/)
+[ОФИЦИАЛЬНЫЙ САЙТ GIT](https://git-scm.com/)  
+[ОФИЦИАЛЬНЫЙ САЙТ GITHUB](https://github.com/)
 
 ### GIT - это система контроля версий файлов, находящаяся на локальном компьютере.
 ___
