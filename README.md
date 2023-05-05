@@ -1,6 +1,6 @@
 # __GIT__
 
-![Image alt](https://github.com/autopilotyoutube/GIT/raw/main/files/pictures/Github_logo.png)
+![Иллюстрация к проекту](https://github.com/autopilotyoutube/GIT/raw/main/files/pictures/Github_logo.png)
 
 [ОФИЦИАЛЬНЫЙ САЙТ GIT](https://git-scm.com/)
 
