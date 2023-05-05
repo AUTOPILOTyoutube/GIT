@@ -28,7 +28,7 @@ __ДОБАВЛЯЕМ СВОЁ ИМЯ__
 
 __ДОБАВЛЯЕМ СВОЮ ПОЧТУ__
 
-    git config --global user.email почта
+    git config --global user.email \<почта\>
 
 Рекомендую указывать имя пользователя и почту как на githab.com
 
